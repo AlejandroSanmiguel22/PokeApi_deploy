@@ -1,0 +1,7 @@
+# Ignore front and back dependencies
+frontend/node_modules/
+backend/vendor/
+
+# Docker
+*.log
+*.env
